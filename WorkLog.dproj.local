@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-04-24 09:51:10.421.pas,C:\Documents and Settings\Qxf\My Documents\RAD Studio\Projects\Unit1.pas=F:\Other\WorkLog\uMain.pas</Transaction>
+    <Transaction>2009-04-24 09:51:10.421.dfm,C:\Documents and Settings\Qxf\My Documents\RAD Studio\Projects\Unit1.dfm=F:\Other\WorkLog\uMain.dfm</Transaction>
+    <Transaction>2009-04-24 09:51:15.000.dproj,C:\Documents and Settings\Qxf\My Documents\RAD Studio\Projects\Project1.dproj=F:\Other\WorkLog\WorkLog.dproj</Transaction>
+    <Transaction>2009-04-24 10:13:04.421.pas,F:\Other\WorkLog\Unit1.pas=F:\Other\WorkLog\uDM.pas</Transaction>
+    <Transaction>2009-04-24 10:13:04.421.dfm,F:\Other\WorkLog\Unit1.dfm=F:\Other\WorkLog\uDM.dfm</Transaction>
+    <Transaction>2009-04-24 11:21:55.265.pas,F:\Other\WorkLog\Unit1.pas=F:\Other\WorkLog\uAddLog.pas</Transaction>
+    <Transaction>2009-04-24 11:21:55.265.dfm,F:\Other\WorkLog\Unit1.dfm=F:\Other\WorkLog\uAddLog.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
